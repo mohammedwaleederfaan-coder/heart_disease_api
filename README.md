@@ -120,4 +120,4 @@ Multiple classifiers were compared using 5-fold cross-validation, with the final
 ## Author
 
 Mohammed Waleed
-[GitHub](https://github.com/mohammedwaleederfaan-coder/heart-disease-api) · [Docker Hub](https://hub.docker.com/r/mohammedwaleederfaan/heart_disease_api)
+[GitHub]([https://github.com/mohammedwaleederfaan-coder/heart-disease-api](https://github.com/mohammedwaleederfaan-coder/heart_disease_api/blob/main/README.md) · [Docker Hub](https://hub.docker.com/r/mohammedwaleederfaan/heart_disease_api)
